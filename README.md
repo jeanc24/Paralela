@@ -1,6 +1,7 @@
 # Practica #1 -- Paralelización de Algoritmos y Análisis de Rendimiento
 
 ## Archivos importantes en el Repositorio:
+### Primero entramos a src, luego a main y luego a java, ahi encontraremos los siguientes archivos en los que se estuvo trabajando:
 
 numeros.txt: Archivo con 1,000,000 números aleatorios
 
